@@ -1,4 +1,4 @@
-baseurl = "https://pages.github.io/tonyskapunk/slides/"
+baseurl = "https://tonyskapunk.github.io/slides/"
 publishDir = "docs"
 theme = "../.."
 builddrafts = true
