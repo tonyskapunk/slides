@@ -6,7 +6,6 @@ canonifyurls = true
 contentdir = "content"
 languageCode = "en-US"
 layoutdir = "layouts"
-publishdir = "public"
 author = "Alexis Tacnet"
 title = "Cocoa Enhanced"
 disqusshortname = ""
